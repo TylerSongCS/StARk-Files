@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "974984990961",
+    "firebase_url": "https://ar-demo-1f5c9.firebaseio.com",
+    "project_id": "ar-demo-1f5c9",
+    "storage_bucket": "ar-demo-1f5c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974984990961:android:7acd155e508e70e5",
+        "android_client_info": {
+          "package_name": "com.unity3d.MobileDemoTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974984990961-gklu2rm7pt9dpmhdk2hkeo3o78pv777f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRZTzE5gV_jM4BHfChZYI-ADeEPuzlVbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

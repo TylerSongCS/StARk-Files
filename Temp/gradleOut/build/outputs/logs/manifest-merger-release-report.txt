@@ -1,0 +1,433 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:2:120-156
+		INJECTED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:2:94-119
+		INJECTED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-93
+		INJECTED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:2:157-197
+supports-screens
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:3:47-74
+	android:smallScreens
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:3:104-131
+	android:normalScreens
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:3:75-103
+	android:xlargeScreens
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:3:132-160
+	android:anyDensity
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:3:21-46
+application
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-16:17
+MERGED from [:VuforiaWrapper:] /Users/Tigersong/.android/build-cache/0c1c299814bed3521624ccfdb1619b80559dafce/output/AndroidManifest.xml:19:5-25:19
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/Tigersong/.android/build-cache/e8e655bbbf1d9b9163f8ee8e5974c186a00e114b/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/Tigersong/.android/build-cache/026903956274f89511465e2c3ce6fcd256ddf42f/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/Tigersong/.android/build-cache/39bd918614a447a3bd75bffdad3bd6f4d81c5e3e/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/Tigersong/.android/build-cache/5204f7f1238c8d49033c656a570f4998c0349cde/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/Tigersong/.android/build-cache/34d11cc333016da52147a239c8713b8e5731ca1f/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/Tigersong/.android/build-cache/52561cfa197e8a2e1562b288315ce1c22d572cc1/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.google.android.gms.play-services-ads-identifier-15.0.1:] /Users/Tigersong/.android/build-cache/20f85a7e3a4d970b6e7a015714b348cd22331773/output/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/Tigersong/.android/build-cache/0a4630e197a764186a5bae527ab8bc99c1956a13/output/AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-basement-15.0.1:] /Users/Tigersong/.android/build-cache/a5d0c81786e495697f75c1c59770a8415702b006/output/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-measurement-api-16.0.1:] /Users/Tigersong/.android/build-cache/454cbc174d133646907f5c14e11c7739a0900288/output/AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-measurement-base-16.0.2:] /Users/Tigersong/.android/build-cache/37937bd0f88feb2de439278313f849a5515f4b8d/output/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-stats-15.0.1:] /Users/Tigersong/.android/build-cache/d62bedb24277434d145c77898ac3175840b41751/output/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-15.0.1:] /Users/Tigersong/.android/build-cache/d7867411e66cfadfc10365ce945cdd8bee894027/output/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:28:5-53:19
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.1:] /Users/Tigersong/.android/build-cache/672551b44a0d5aacb3cff67264ce6bd821d92cfe/output/AndroidManifest.xml:28:5-38:19
+MERGED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/Tigersong/.android/build-cache/cad826e07c499620683df0db0f0c68e420c778c8/output/AndroidManifest.xml:22:5-36:19
+MERGED from [:com.google.firebase.firebase-auth-interop-16.0.0:] /Users/Tigersong/.android/build-cache/af89b9fa6e50d5bd11e84e508ff928334532e98f/output/AndroidManifest.xml:7:5-8:19
+MERGED from [:com.google.firebase.firebase-common-16.0.2:] /Users/Tigersong/.android/build-cache/4fe0c262ebb75ebe7f370ab98fef99b3e33ee8e5/output/AndroidManifest.xml:4:3-6:17
+MERGED from [:com.google.firebase.firebase-core-16.0.3:] /Users/Tigersong/.android/build-cache/cb35d586aa64b6d095cdbd9d15bd97e2c0ae0604/output/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:26:3-45:17
+MERGED from [:com.google.firebase.firebase-iid-interop-16.0.0:] /Users/Tigersong/.android/build-cache/2f986ad89c977d2f5dd775870878e6fe4114fa2b/output/AndroidManifest.xml:7:5-8:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-17.0.0:] /Users/Tigersong/.android/build-cache/c529bc3a1f508d3d7ed6a083a9fff3a38e22223e/output/AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/Tigersong/.android/build-cache/aea620ae94406d353616a0f383dd3d7091b43f58/output/AndroidManifest.xml:26:5-32:19
+	android:label
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:4:50-82
+	android:debuggable
+		ADDED from [:VuforiaWrapper:] /Users/Tigersong/.android/build-cache/0c1c299814bed3521624ccfdb1619b80559dafce/output/AndroidManifest.xml:19:18-44
+	android:icon
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-49
+	android:banner
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:4:147-184
+	android:theme
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:4:83-124
+	android:isGame
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:4:125-146
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-11:16
+	android:screenOrientation
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-138
+	android:label
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-47
+	android:hardwareAccelerated
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:5:353-388
+	android:launchMode
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:5:139-170
+	android:configChanges
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:5:171-352
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:5:48-101
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:6:7-9:23
+action#android.intent.action.MAIN
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:8:19-66
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:10:7-82
+	android:value
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:10:59-79
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:10:18-58
+meta-data#unity.build-id
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:12:5-101
+	android:value
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:12:46-98
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:12:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-69
+	android:value
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:13:49-66
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:13:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-74
+	android:value
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:14:51-71
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-50
+meta-data#android.max_aspect
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-72
+	android:value
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:15:50-69
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-49
+uses-sdk
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:17:3-72
+MERGED from [:VuforiaWrapper:] /Users/Tigersong/.android/build-cache/0c1c299814bed3521624ccfdb1619b80559dafce/output/AndroidManifest.xml:8:5-10:41
+MERGED from [:android.arch.core.runtime-1.1.1:] /Users/Tigersong/.android/build-cache/2c6b17cc698276442c16b079ccb6098d0f613358/output/AndroidManifest.xml:20:5-44
+MERGED from [:android.arch.lifecycle.runtime-1.1.1:] /Users/Tigersong/.android/build-cache/e3e6b1d85389e2e124a7abcad8a6445c9b0d5278/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/Tigersong/.android/build-cache/e8e655bbbf1d9b9163f8ee8e5974c186a00e114b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/Tigersong/.android/build-cache/026903956274f89511465e2c3ce6fcd256ddf42f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/Tigersong/.android/build-cache/39bd918614a447a3bd75bffdad3bd6f4d81c5e3e/output/AndroidManifest.xml:21:5-23:61
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/Tigersong/.android/build-cache/5204f7f1238c8d49033c656a570f4998c0349cde/output/AndroidManifest.xml:21:5-23:60
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/Tigersong/.android/build-cache/34d11cc333016da52147a239c8713b8e5731ca1f/output/AndroidManifest.xml:21:5-23:63
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/Tigersong/.android/build-cache/52561cfa197e8a2e1562b288315ce1c22d572cc1/output/AndroidManifest.xml:21:5-23:54
+MERGED from [:com.google.android.gms.play-services-ads-identifier-15.0.1:] /Users/Tigersong/.android/build-cache/20f85a7e3a4d970b6e7a015714b348cd22331773/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/Tigersong/.android/build-cache/0a4630e197a764186a5bae527ab8bc99c1956a13/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-15.0.1:] /Users/Tigersong/.android/build-cache/a5d0c81786e495697f75c1c59770a8415702b006/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-flags-15.0.1:] /Users/Tigersong/.android/build-cache/cde109ca1e68416a0aadd11d4e44ef2a6292db76/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-api-16.0.1:] /Users/Tigersong/.android/build-cache/454cbc174d133646907f5c14e11c7739a0900288/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-16.0.2:] /Users/Tigersong/.android/build-cache/37937bd0f88feb2de439278313f849a5515f4b8d/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-stats-15.0.1:] /Users/Tigersong/.android/build-cache/d62bedb24277434d145c77898ac3175840b41751/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-15.0.1:] /Users/Tigersong/.android/build-cache/d7867411e66cfadfc10365ce945cdd8bee894027/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.1:] /Users/Tigersong/.android/build-cache/672551b44a0d5aacb3cff67264ce6bd821d92cfe/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-app-unity-5.3.1:] /Users/Tigersong/.android/build-cache/3a848e5c913cd8bb267f38c005927fe8a105d48f/output/AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/Tigersong/.android/build-cache/cad826e07c499620683df0db0f0c68e420c778c8/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-auth-interop-16.0.0:] /Users/Tigersong/.android/build-cache/af89b9fa6e50d5bd11e84e508ff928334532e98f/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-auth-unity-5.3.1:] /Users/Tigersong/.android/build-cache/1848b71c45f38e8245f3a402e62a709f09d00d30/output/AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-common-16.0.2:] /Users/Tigersong/.android/build-cache/4fe0c262ebb75ebe7f370ab98fef99b3e33ee8e5/output/AndroidManifest.xml:3:3-72
+MERGED from [:com.google.firebase.firebase-core-16.0.3:] /Users/Tigersong/.android/build-cache/cb35d586aa64b6d095cdbd9d15bd97e2c0ae0604/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:18:3-42
+MERGED from [:com.google.firebase.firebase-iid-interop-16.0.0:] /Users/Tigersong/.android/build-cache/2f986ad89c977d2f5dd775870878e6fe4114fa2b/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-measurement-connector-17.0.0:] /Users/Tigersong/.android/build-cache/c529bc3a1f508d3d7ed6a083a9fff3a38e22223e/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/Tigersong/.android/build-cache/aea620ae94406d353616a0f383dd3d7091b43f58/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-storage-16.0.2:] /Users/Tigersong/.android/build-cache/cbc933e01fcf52dcde999b88c0f53a8221cc330c/output/AndroidManifest.xml:19:5-21:41
+MERGED from [:com.google.firebase.firebase-storage-unity-5.3.1:] /Users/Tigersong/.android/build-cache/7e1fa801bf37405e31c32c5e66f48b7cc330e735/output/AndroidManifest.xml:7:3-41
+MERGED from [gradleOut:Firebase:unspecified] /Users/Tigersong/AugmentedReality/Temp/gradleOut/Firebase/build/intermediates/bundles/default/AndroidManifest.xml:15:5-17:40
+	tools:overrideLibrary
+		ADDED from [:com.android.support.support-compat-26.1.0:] /Users/Tigersong/.android/build-cache/e8e655bbbf1d9b9163f8ee8e5974c186a00e114b/output/AndroidManifest.xml:23:9-55
+	android:targetSdkVersion
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:17:40-69
+		INJECTED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:17:13-39
+uses-feature#0x00020000
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:18:3-52
+	android:glEsVersion
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:18:17-49
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-65
+MERGED from [:VuforiaWrapper:] /Users/Tigersong/.android/build-cache/0c1c299814bed3521624ccfdb1619b80559dafce/output/AndroidManifest.xml:14:5-67
+MERGED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.1:] /Users/Tigersong/.android/build-cache/672551b44a0d5aacb3cff67264ce6bd821d92cfe/output/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:20:3-65
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/Tigersong/.android/build-cache/aea620ae94406d353616a0f383dd3d7091b43f58/output/AndroidManifest.xml:22:5-67
+MERGED from [:com.google.firebase.firebase-storage-16.0.2:] /Users/Tigersong/.android/build-cache/cbc933e01fcf52dcde999b88c0f53a8221cc330c/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:19:20-62
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-77
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:20:20-74
+uses-feature#android.hardware.location.gps
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-89
+	android:required
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:21:62-86
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:21:17-61
+uses-feature#android.hardware.location
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:22:3-85
+	android:required
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:22:58-82
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:22:17-57
+uses-permission#android.permission.CAMERA
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:23:3-63
+MERGED from [:VuforiaWrapper:] /Users/Tigersong/.android/build-cache/0c1c299814bed3521624ccfdb1619b80559dafce/output/AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:23:20-60
+uses-feature#android.hardware.camera
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:24:3-83
+MERGED from [:VuforiaWrapper:] /Users/Tigersong/.android/build-cache/0c1c299814bed3521624ccfdb1619b80559dafce/output/AndroidManifest.xml:12:5-60
+	android:required
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:24:56-80
+		MERGED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:24:56-80
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:24:17-55
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:25:3-93
+	android:required
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:25:66-90
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:25:17-65
+uses-feature#android.hardware.camera.front
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:26:3-89
+	android:required
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:26:62-86
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:26:17-61
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:27:3-88
+	android:required
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:27:61-85
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:27:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:28:3-99
+	android:required
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:28:72-96
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:28:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:29:3-108
+	android:required
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:29:81-105
+	android:name
+		ADDED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:29:17-80
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:VuforiaWrapper:] /Users/Tigersong/.android/build-cache/0c1c299814bed3521624ccfdb1619b80559dafce/output/AndroidManifest.xml:16:5-79
+MERGED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:24:5-79
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.1:] /Users/Tigersong/.android/build-cache/672551b44a0d5aacb3cff67264ce6bd821d92cfe/output/AndroidManifest.xml:24:5-79
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:19:3-77
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/Tigersong/.android/build-cache/aea620ae94406d353616a0f383dd3d7091b43f58/output/AndroidManifest.xml:23:5-79
+MERGED from [:com.google.firebase.firebase-storage-16.0.2:] /Users/Tigersong/.android/build-cache/cbc933e01fcf52dcde999b88c0f53a8221cc330c/output/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [:VuforiaWrapper:] /Users/Tigersong/.android/build-cache/0c1c299814bed3521624ccfdb1619b80559dafce/output/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:VuforiaWrapper:] /Users/Tigersong/.android/build-cache/0c1c299814bed3521624ccfdb1619b80559dafce/output/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [:VuforiaWrapper:] /Users/Tigersong/.android/build-cache/0c1c299814bed3521624ccfdb1619b80559dafce/output/AndroidManifest.xml:17:22-78
+uses-library#com.osterhoutgroup.api.ext
+ADDED from [:VuforiaWrapper:] /Users/Tigersong/.android/build-cache/0c1c299814bed3521624ccfdb1619b80559dafce/output/AndroidManifest.xml:22:9-24:40
+	android:required
+		ADDED from [:VuforiaWrapper:] /Users/Tigersong/.android/build-cache/0c1c299814bed3521624ccfdb1619b80559dafce/output/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] /Users/Tigersong/.android/build-cache/0c1c299814bed3521624ccfdb1619b80559dafce/output/AndroidManifest.xml:23:13-54
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/Tigersong/AugmentedReality/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-30:12 reason: com.unity3d.player requested WRITE_EXTERNAL_STORAGE
+meta-data#android.support.VERSION
+ADDED from [:com.android.support.support-compat-26.1.0:] /Users/Tigersong/.android/build-cache/e8e655bbbf1d9b9163f8ee8e5974c186a00e114b/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/Tigersong/.android/build-cache/026903956274f89511465e2c3ce6fcd256ddf42f/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/Tigersong/.android/build-cache/39bd918614a447a3bd75bffdad3bd6f4d81c5e3e/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/Tigersong/.android/build-cache/5204f7f1238c8d49033c656a570f4998c0349cde/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/Tigersong/.android/build-cache/34d11cc333016da52147a239c8713b8e5731ca1f/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/Tigersong/.android/build-cache/52561cfa197e8a2e1562b288315ce1c22d572cc1/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [:com.android.support.support-compat-26.1.0:] /Users/Tigersong/.android/build-cache/e8e655bbbf1d9b9163f8ee8e5974c186a00e114b/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [:com.android.support.support-compat-26.1.0:] /Users/Tigersong/.android/build-cache/e8e655bbbf1d9b9163f8ee8e5974c186a00e114b/output/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/Tigersong/.android/build-cache/0a4630e197a764186a5bae527ab8bc99c1956a13/output/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/Tigersong/.android/build-cache/0a4630e197a764186a5bae527ab8bc99c1956a13/output/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/Tigersong/.android/build-cache/0a4630e197a764186a5bae527ab8bc99c1956a13/output/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/Tigersong/.android/build-cache/0a4630e197a764186a5bae527ab8bc99c1956a13/output/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-15.0.1:] /Users/Tigersong/.android/build-cache/a5d0c81786e495697f75c1c59770a8415702b006/output/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-15.0.1:] /Users/Tigersong/.android/build-cache/a5d0c81786e495697f75c1c59770a8415702b006/output/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-15.0.1:] /Users/Tigersong/.android/build-cache/a5d0c81786e495697f75c1c59770a8415702b006/output/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:25:5-68
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.1:] /Users/Tigersong/.android/build-cache/672551b44a0d5aacb3cff67264ce6bd821d92cfe/output/AndroidManifest.xml:25:5-68
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:21:3-66
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/Tigersong/.android/build-cache/aea620ae94406d353616a0f383dd3d7091b43f58/output/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:26:5-110
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.1:] /Users/Tigersong/.android/build-cache/672551b44a0d5aacb3cff67264ce6bd821d92cfe/output/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:34:9-42:20
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.1:] /Users/Tigersong/.android/build-cache/672551b44a0d5aacb3cff67264ce6bd821d92cfe/output/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:35:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/AndroidManifest.xml:49:13-87
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/Tigersong/.android/build-cache/cad826e07c499620683df0db0f0c68e420c778c8/output/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/Tigersong/.android/build-cache/cad826e07c499620683df0db0f0c68e420c778c8/output/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/Tigersong/.android/build-cache/cad826e07c499620683df0db0f0c68e420c778c8/output/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/Tigersong/.android/build-cache/cad826e07c499620683df0db0f0c68e420c778c8/output/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/Tigersong/.android/build-cache/cad826e07c499620683df0db0f0c68e420c778c8/output/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/Tigersong/.android/build-cache/cad826e07c499620683df0db0f0c68e420c778c8/output/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/Tigersong/.android/build-cache/cad826e07c499620683df0db0f0c68e420c778c8/output/AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/Tigersong/.android/build-cache/cad826e07c499620683df0db0f0c68e420c778c8/output/AndroidManifest.xml:31:9-35:19
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:27:5-29:15
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/Tigersong/.android/build-cache/aea620ae94406d353616a0f383dd3d7091b43f58/output/AndroidManifest.xml:27:9-31:19
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/Tigersong/.android/build-cache/cad826e07c499620683df0db0f0c68e420c778c8/output/AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/Tigersong/.android/build-cache/cad826e07c499620683df0db0f0c68e420c778c8/output/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/Tigersong/.android/build-cache/cad826e07c499620683df0db0f0c68e420c778c8/output/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/Tigersong/.android/build-cache/cad826e07c499620683df0db0f0c68e420c778c8/output/AndroidManifest.xml:33:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [:com.google.firebase.firebase-common-16.0.2:] /Users/Tigersong/.android/build-cache/4fe0c262ebb75ebe7f370ab98fef99b3e33ee8e5/output/AndroidManifest.xml:5:5-201
+	android:authorities
+		ADDED from [:com.google.firebase.firebase-common-16.0.2:] /Users/Tigersong/.android/build-cache/4fe0c262ebb75ebe7f370ab98fef99b3e33ee8e5/output/AndroidManifest.xml:5:80-149
+	android:exported
+		ADDED from [:com.google.firebase.firebase-common-16.0.2:] /Users/Tigersong/.android/build-cache/4fe0c262ebb75ebe7f370ab98fef99b3e33ee8e5/output/AndroidManifest.xml:5:150-174
+	android:initOrder
+		ADDED from [:com.google.firebase.firebase-common-16.0.2:] /Users/Tigersong/.android/build-cache/4fe0c262ebb75ebe7f370ab98fef99b3e33ee8e5/output/AndroidManifest.xml:5:175-198
+	android:name
+		ADDED from [:com.google.firebase.firebase-common-16.0.2:] /Users/Tigersong/.android/build-cache/4fe0c262ebb75ebe7f370ab98fef99b3e33ee8e5/output/AndroidManifest.xml:5:15-79
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:23:3-80
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:23:20-77
+permission#com.unity3d.MobileDemoTest.permission.C2D_MESSAGE
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:24:3-118
+	android:protectionLevel
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:24:80-115
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:24:15-79
+uses-permission#com.unity3d.MobileDemoTest.permission.C2D_MESSAGE
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:25:3-87
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:25:20-84
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:28:7-166
+	android:value
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:28:98-163
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:28:18-97
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:30:5-35:16
+	android:exported
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:30:81-104
+	android:permission
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:30:105-165
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:30:15-80
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.unity3d.MobileDemoTest
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:31:7-34:23
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:32:9-73
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:32:17-70
+category#com.unity3d.MobileDemoTest
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:33:9-63
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:33:19-60
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:40:5-44:15
+	android:exported
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:40:79-102
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:40:14-78
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:41:7-43:23
+	android:priority
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:41:22-45
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:42:9-72
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/AndroidManifest.xml:42:17-69
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/Tigersong/.android/build-cache/aea620ae94406d353616a0f383dd3d7091b43f58/output/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/Tigersong/.android/build-cache/aea620ae94406d353616a0f383dd3d7091b43f58/output/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/Tigersong/.android/build-cache/aea620ae94406d353616a0f383dd3d7091b43f58/output/AndroidManifest.xml:29:17-139

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/cad826e07c499620683df0db0f0c68e420c778c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="b5a03c01babdb2a80f770eb5880d0467ec6415d0">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_b7376f258b8d89c572e37f643e6c6bdbdd050e84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/5204f7f1238c8d49033c656a570f4998c0349cde/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_ba5a4281d522aa95832ca748fb02fccfe5e19c5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/e8e655bbbf1d9b9163f8ee8e5974c186a00e114b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_f2c3c25c1db973f988528a3d3cb8a6339aa515e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/AugmentedReality/Temp/gradleOut/libs/com.android.support.support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/com.android.support.support-annotations-26.1.0_fd83e66a7f6146ff58e45ca73f72bda97e29ebe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/672551b44a0d5aacb3cff67264ce6bd821d92cfe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="12c28e89a7ca29cdfa769155ae0b161c808155f9">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_d921efed678e0994194373a4678b3ebee34d0133.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/c529bc3a1f508d3d7ed6a083a9fff3a38e22223e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="930a2efcf04828abbc02a1624235f271dd3ebd4e">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_2aa7a22443c71d6e9accded8eac0d0cf6b9639a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/39bd918614a447a3bd75bffdad3bd6f4d81c5e3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_d024aa7e2b3dde2c28adfa83ef6470d61f125006.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/af89b9fa6e50d5bd11e84e508ff928334532e98f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="efe9d64183cd00b0cd3d876383ed177e6b37398c">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_ca96ca41f6fa9bc7e82bc3e9f83239ddc49e3205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/e3e6b1d85389e2e124a7abcad8a6445c9b0d5278/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_654b33019a5e9773868e3c2fb4e855014ea4c859.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/37937bd0f88feb2de439278313f849a5515f4b8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="589cf4763170e413dadd9f92e04aa8a7612d9076">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_bdd5e3f587188d7b68704d4ff1dc4cbb5800906f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/AugmentedReality/Temp/gradleOut/Firebase/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="40ff3be403f28768b5e51eb3a76547170dd88e95">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_c701394280b50bb8034b69efeaa302faad1123aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/d62bedb24277434d145c77898ac3175840b41751/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c1e9d140d3260619ce2fa991d30b14b531d61dec">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_a44a5adab1754b0f4d79f3fcc08b10a4214c3589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/4fe0c262ebb75ebe7f370ab98fef99b3e33ee8e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="1130b28b5a2a42de7b9b0c400b55858effde3296">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_49cb88db6413dc2ca32e1fd36113475dfd585189.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/026903956274f89511465e2c3ce6fcd256ddf42f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_be9579e76c3556d08a1f862d7508230ffde63f29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/0c1c299814bed3521624ccfdb1619b80559dafce/output/jars/libs/VuforiaUnityPlayer.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="1e5c98f1d2f1973f9a08b7849f319bcb135fe8c3">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/VuforiaUnityPlayer_439bd7b9779b182fa84b6b3f782a02a70b670c93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/454cbc174d133646907f5c14e11c7739a0900288/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="0ab9ee745d207914473f5e796e172a106edb1e57">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_0aabb5089fb2b6b051c2c991a6cec4365d703d5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/0c1c299814bed3521624ccfdb1619b80559dafce/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="1525e08d2db7c0d6b7219dc2a141bb3ff56929ad">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/Vuforia_9f08789d3c14ea5361b0a5c32b3dcd96b3b0c15d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/AugmentedReality/Temp/gradleOut/libs/android.arch.lifecycle.common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/android.arch.lifecycle.common-1.1.1_21e8fc8c74dfa91046a00facfa475fc80e3cdbb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/2c6b17cc698276442c16b079ccb6098d0f613358/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_3da8db0c3ea613e965fe874be30a69704da40415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/34d11cc333016da52147a239c8713b8e5731ca1f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_592a865ea58c7511462b19ae99b2e12a08aa51eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/2f986ad89c977d2f5dd775870878e6fe4114fa2b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2a69972573cb7e5cc6b8652bacf981e82b68ff71">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_d22c5e3af4aa20c774884b6d6744688f364235d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/cde109ca1e68416a0aadd11d4e44ef2a6292db76/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="04a44d20bec92359951d025757218220f93b5d4b">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_9e3902da98de7912985fccc8bc0372d4ccc33a2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/cbc933e01fcf52dcde999b88c0f53a8221cc330c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f5ab0e218b2ead048957c0afd858b7dbc89b4d45">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_69a549c44a7b040250a7e2a0e73460373b4e84db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/0c1c299814bed3521624ccfdb1619b80559dafce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_75815e76e7f11948b7d457ce82456144101c7f92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/20f85a7e3a4d970b6e7a015714b348cd22331773/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="63413895dce50f6123807d1db2274a1982a34194">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_06a06fc0b3e77aac27e78fd4336a48bfe8dd0d5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/aea620ae94406d353616a0f383dd3d7091b43f58/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="76a618dcfc50e7d92ff03f234796b84533323190">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_b587d6a0e58a10e91f6f5989d575a904c8312b90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/80a195188289a79bb7ac6c71b54f16dbfa3dddae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="59791280ffd12fcdf51e5e182afc53abb0a02c71">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_753c89cc9aef1e4d236843fd302af1d40e2334cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/AugmentedReality/Temp/gradleOut/libs/android.arch.core.common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/android.arch.core.common-1.1.1_e52aeb0dd6f08c19cb7ee334bc532ff76db9121e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/a5d0c81786e495697f75c1c59770a8415702b006/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_03b084b0192a8f985d2bd2208857a5ab892bf6f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/AugmentedReality/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="65ae9e5c218a87aae655be80c134a23b1c20d09b">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_ba7801c37f74768ad068a058cfa1ebabf9c64167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/d7867411e66cfadfc10365ce945cdd8bee894027/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="4d4d98a0428b2e620e6b4a228ef9f7cb2f0debd2">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_5f251df213c87a35a11f68da318463027989e075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/52561cfa197e8a2e1562b288315ce1c22d572cc1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_79c7204d9ce5594b676d2009e2afe86e19a9a053.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/9402d2bc5d9ebbe0d384e6db293469923604f76f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="1e224748cbf54c34eac0bca6376922468b786775">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_171d3e9584b952df1878eb1ea70d4de67d7fb5e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Tigersong/.android/build-cache/0a4630e197a764186a5bae527ab8bc99c1956a13/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="8d813c05361147f6f515f749df19223cd6256314">
+        <dex dex="/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_62abaa4df322df5b53ca5a8101990d3d9fcd43f3.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/Tigersong/.android/build-cache/e8e655bbbf1d9b9163f8ee8e5974c186a00e114b/output/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/Tigersong/.android/build-cache/e8e655bbbf1d9b9163f8ee8e5974c186a00e114b/output/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4/googleg_standard_color_18.png",
+        "source": "/Users/Tigersong/.android/build-cache/0a4630e197a764186a5bae527ab8bc99c1956a13/output/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+    },
+    {
+        "merged": "/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/Tigersong/.android/build-cache/e8e655bbbf1d9b9163f8ee8e5974c186a00e114b/output/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "/Users/Tigersong/.android/build-cache/0a4630e197a764186a5bae527ab8bc99c1956a13/output/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/Tigersong/.android/build-cache/e8e655bbbf1d9b9163f8ee8e5974c186a00e114b/output/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "/Users/Tigersong/.android/build-cache/0a4630e197a764186a5bae527ab8bc99c1956a13/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "/Users/Tigersong/.android/build-cache/0a4630e197a764186a5bae527ab8bc99c1956a13/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "/Users/Tigersong/.android/build-cache/0a4630e197a764186a5bae527ab8bc99c1956a13/output/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4/googleg_disabled_color_18.png",
+        "source": "/Users/Tigersong/.android/build-cache/0a4630e197a764186a5bae527ab8bc99c1956a13/output/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4/common_full_open_on_phone.png",
+        "source": "/Users/Tigersong/.android/build-cache/0a4630e197a764186a5bae527ab8bc99c1956a13/output/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/Tigersong/AugmentedReality/Temp/gradleOut/build/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/Tigersong/.android/build-cache/e8e655bbbf1d9b9163f8ee8e5974c186a00e114b/output/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    }
+]
